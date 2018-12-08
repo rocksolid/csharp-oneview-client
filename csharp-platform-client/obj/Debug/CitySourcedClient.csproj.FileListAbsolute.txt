@@ -1,0 +1,156 @@
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\CitySourcedClient.dll.config
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\CitySourcedClient.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\CitySourcedClient.pdb
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\csc.exe
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\csc.exe.config
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\csc.rsp
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\csi.exe
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\csi.exe.config
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\csi.rsp
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\System.AppContext.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Console.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Security.Claims.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\vbc.exe
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\vbc.exe.config
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\vbc.rsp
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\Antlr3.Runtime.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\Newtonsoft.Json.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\System.Web.Optimization.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\WebGrease.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\System.Web.Optimization.xml
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\Newtonsoft.Json.xml
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\Antlr3.Runtime.pdb
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\obj\Debug\CitySourcedClient.csprojAssemblyReference.cache
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\obj\Debug\CitySourcedClient.csproj.CoreCompileInputs.cache
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\obj\Debug\CitySourcedClient.csproj.CopyComplete
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\obj\Debug\CitySourcedClient.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\obj\Debug\CitySourcedClient.pdb
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\RestSharp.dll
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\Newtonsoft.Json.pdb
+C:\Users\Jason A. Kiesel\source\repos\CitySourcedClient\CitySourcedClient\bin\RestSharp.xml
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\CitySourcedClient.dll.config
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\CitySourcedClient.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\CitySourcedClient.pdb
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\csc.exe
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\csc.exe.config
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\csc.rsp
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\csi.exe
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\csi.exe.config
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\csi.rsp
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\System.AppContext.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Console.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\System.IO.Compression.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\System.IO.Pipes.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Security.Claims.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\System.ValueTuple.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Xml.XPath.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\vbc.exe
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\vbc.exe.config
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\vbc.rsp
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\VBCSCompiler.exe
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\Antlr3.Runtime.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\Newtonsoft.Json.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\RestSharp.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\System.Web.Optimization.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\WebGrease.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\Newtonsoft.Json.pdb
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\Newtonsoft.Json.xml
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\RestSharp.xml
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\System.Web.Optimization.xml
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\Antlr3.Runtime.pdb
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\obj\Debug\CitySourcedClient.csprojAssemblyReference.cache
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\obj\Debug\CitySourcedClient.csproj.CoreCompileInputs.cache
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\obj\Debug\CitySourcedClient.csproj.CopyComplete
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\obj\Debug\CitySourcedClient.dll
+C:\Users\JasonKiesel\Desktop\CitySourcedClient\CitySourcedClient\CitySourcedClient\obj\Debug\CitySourcedClient.pdb
