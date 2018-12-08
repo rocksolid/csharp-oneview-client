@@ -17,7 +17,7 @@ Full documentation for the CitySourced Platform APIs is available online at: htt
 ### Disclaimer of Warranty and Liability
 THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-Lawyers... ߤ! 
+Lawyers... 🤦! 
 
 ### Support Disclaimer
 CitySourced, Inc. cannot provide support for these items. Sorry folks. You're on your own with this one. ߤ
@@ -26,7 +26,7 @@ CitySourced, Inc. cannot provide support for these items. Sorry folks. You're on
 By downloading and using this software, you have read and agree to the [CitySourced Partner Program Agreement](https://d2p5liwq1c5kwh.cloudfront.net/Developers/CitySourced-Partner-Program-Agreement-Latest.pdf).
 
 ### Credits
-This application was designed and built with ߒ in Los Angeles, CA ☀️
+This application was designed and built with ❤️ in Los Angeles, CA ☀️
 
 ### License
 [MIT](https://opensource.org/licenses/MIT)
