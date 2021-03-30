@@ -20,13 +20,13 @@ THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLU
 Lawyers... 🤦! 
 
 ### Support Disclaimer
-CitySourced and/or Rock Solid cannot provide support for these items. Sorry folks. You're on your own with this one. ߤ
+Rock Solid cannot provide support for these items. Sorry folks. You're on your own with this one. ߤ
 
 ### Agreement to Terms
 By downloading and using this software, you have read and agree to the [OneView Partner Program Agreement](https://d2p5liwq1c5kwh.cloudfront.net/Developers/CitySourced-Partner-Program-Agreement-Latest.pdf).
 
 ### Credits
-This application was designed and built with ❤️ in Los Angeles, CA ☀️
+This application was designed and built with ❤️ in Puerto Rico, Austin, TX & Los Angeles, CA ☀️
 
 ### License
 [MIT](https://opensource.org/licenses/MIT)
